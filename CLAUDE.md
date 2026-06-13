@@ -43,6 +43,4 @@ no shared library code, package structure, or test suite.
 
 ## Known issue
 
-`first_agent.py` has a Groq API key hardcoded as a string literal (committed to git). Treat this
-as already-leaked/rotated, don't reuse it, and prefer the `.env` + `os.getenv("GROQ_API_KEY")`
-pattern used elsewhere if editing this file.
+

@@ -4,3 +4,4 @@ __pycache__/
 .env
 .aider*
 .DS_Store
+ideas.md
