@@ -27,7 +27,7 @@ The pipeline fails safe: when no chunk clears the relevance threshold, it refuse
 ### Run it
 
 ```bash
-git clone https://github.com/<you>/Agentic-Mastery-2026.git
+git clone https://github.com/Sciscitator-YN/Agentic-Mastery-2026.git
 cd Agentic-Mastery-2026
 
 # deps are pinned in requirements.txt (env created with uv)
